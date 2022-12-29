@@ -3,4 +3,7 @@ defmodule Cards do
     ["Ace", "two", "three"]
   end
 
+  def shuffle(deck) do
+    
+  end
 end
